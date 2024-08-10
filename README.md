@@ -48,6 +48,9 @@ DAN’s profiling is adaptive, meaning it can learn and update its understanding
 
 ![image](https://github.com/user-attachments/assets/a7f31076-6049-4978-9f4e-36aa7ba84ea5)
 
+## Flow chart
+![image](https://github.com/user-attachments/assets/d1c0ab2a-6a72-45f6-a4a7-bf55e760a16a)
+
 
 # The DAN Tool
 
